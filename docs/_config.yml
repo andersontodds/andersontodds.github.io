@@ -117,7 +117,7 @@ analytics:
 # Site Author
 author:
   name             : "Todd"
-  avatar           : "/docs/assets/images/wallowa-icon_400px.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/docs/assets/images/wallowa_icon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate in Earth and Space Sciences at the University of Washington. Interested in space plasmas, lightning, open-source computing, and being outside."
   location         : "Seattle"
   email            : "tshelbya@uw.edu"
