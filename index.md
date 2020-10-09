@@ -1,6 +1,6 @@
 ## Bio
 
-Todd Anderson is a really cool guy who totally knows how to build a personal website.  Also, he is looking for postdocs.  If are reading this, this website isn't anywhere near completion; check back in a week, or [contact Todd](mailto:tshelbya@uw.edu).
+Todd Anderson is a really cool guy who totally knows how to build a personal website.  Also, he is looking for postdocs starting as early as Autumn 2021.  If you are reading this, this website isn't anywhere near completion; check back in a week, or [contact Todd](mailto:tshelbya@uw.edu).
 
 ### Interests
 - Interactions between radio frequency electromagnetic waves launched by lightning with Earth's ionosphere and magnetosphere
