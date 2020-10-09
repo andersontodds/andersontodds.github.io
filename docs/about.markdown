@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Todd is a PhD Candidate in the Department of Earth and Space Sciences at the University of Washington, and is currently working on this website.
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
