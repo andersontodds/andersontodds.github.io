@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Under Construction"
 date: 2020-10-09 13:07:00 -0700
 categories: website infrastructure
