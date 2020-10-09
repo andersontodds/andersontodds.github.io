@@ -117,14 +117,14 @@ analytics:
 # Site Author
 author:
   name             : "Todd"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/wallowa-icon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD Candidate in Earth and Space Sciences at the University of Washington."
   location         : "Seattle"
   email            : "tshelbya@uw.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tshelbya@uw.edu"
+      # url: "mailto:tshelbya@uw.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
