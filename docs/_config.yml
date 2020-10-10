@@ -140,6 +140,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/todd.s.anderson/"
+    - label: "Researchgate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Todd_Anderson18"
 
 # Site Footer
 footer:
