@@ -127,7 +127,7 @@ author:
       # url: "mailto:tshelbya@uw.edu"
     - label: "ESS directory"
       icon: "fas fa-fw fa-link"
-      url: "https://www.ess.washington.edu/people/profile.php?pid=anderson--todd"
+      #url: "https://www.ess.washington.edu/people/profile.php?pid=anderson--todd"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
