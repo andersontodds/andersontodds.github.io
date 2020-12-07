@@ -119,7 +119,7 @@ analytics:
 author:
   name             : "Todd"
   avatar           : "/assets/images/wallowa_icon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Earth and Space Sciences at the University of Washington. Interested in space plasmas, lightning, open-source computing, and being outside."
+  bio              : "PhD Candidate in Earth and Space Sciences at the University of Washington. Interested in space plasmas, lightning, open-source computing, and being outside. [Check out my CV.](/assets/Anderson_Todd_CV.jpg)"
   location         : "Seattle"
   email            : "tshelbya@uw.edu"
   links:
