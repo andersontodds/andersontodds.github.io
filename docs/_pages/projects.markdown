@@ -35,15 +35,15 @@ As of November 2020, individual ray paths can be traced from the top of the iono
 
 **Thunderstorm contribution to the Global Electric Circuit**
 
+<figure style="width: 300px" class="align-right">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/payload_hangar.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/payload_hangar.jpg"></a>
+    <figcaption>One of the Summer 2019 payloads being balanced in the hangar in Sisters, OR.</figcaption>
+</figure>
+
 Thunderstorms were hypothesized to be the principal driver of the Global Electric Circuit (GEC) nearly 100 years ago by C. T. R. Wilson (1921), but testing this hypothesis has proved difficult due to difficulty in measuring the relative contributions to the GEC of various sources: namely, thunderstorms, electrified shower clouds, and other middle-atmosphere current sources (Williams E. , 2009). This work seeks to quantify the thunderstorm contribution to the GEC by combining two measurement schemes:
  1. A stratospheric balloon campaign, whose payloads will measure vector electric field and electrical conductivity in the fair-weather atmosphere, from which the fair-weather return current of the GEC can be derived, and
  2. A study of global thunderstorm area determined by the World Wide Lightning Location Network (WWLLN), with correction from satellite lightning and cloud imagery.
 
 A test balloon flight was conducted in early September 2019, wherein one payload flew for 31 hours and produced 18.5 hours of usable electric field and conductivity data.  These data were presented in a talk at the 2019 AGU Fall Meeting.  Up to four science flights are planned for Summer 2021.
-
-<figure style="width: 300px" class="align-right">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/payload_hangar.jpg">
-    <figcaption>One of the payloads being balanced in the hangar.</figcaption>
-</figure>
 
 In the banner photo of this page, you can see one of the stratospheric balloon payloads being tested in Sisters, OR, in September 2019.  The tiny white speck above the payload's boom on the right side of the image is the balloon flown during the test flight, catching the last rays of sunlight.
