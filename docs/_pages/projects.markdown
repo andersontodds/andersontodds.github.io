@@ -14,6 +14,13 @@ Broadly speaking, I am interested in the impact of terrestrial and space weather
 
 **Detection of VLF attenuation in the Earth-ionosphere waveguide associated with solar flares**
 
+<figure class="triple">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_log_grid_cross_10m_sample.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_log_grid_cross_10m_sample.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_atten_redblue.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_atten_redblue.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/blackoutmap_20170906.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/blackoutmap_20170906.png"></a>
+    <figcaption>Left: sample stroke-station path distribution for a ten-minute period.  Center: dB change in 10-minute stroke-station path distribution from previous hour median for September 6, 2017 X9.3 flare.  Right: D-Region Absorption Prediction (D-RAP) HF attenuation model for the same flare (NOAA SWPC).</figcaption>
+</figure>
+
 Here we used data from the World Wide Lightning Location Network (WWLLN) to observe changes in very low frequency (VLF) radio wave propagation in the Earth-ionosphere waveguide associated with strong solar flares.  VLF radio waves can propagate thousands of kilometers in the waveguide, so WWLLN is able to use a network of spatially-distributed receiving stations to detect radio waves launched by lightning strokes, and thereby locate lightning all over the world.
 
 Solar flares, and other space weather phenomena, alter the plasma density profile of the ionosphere.  Solar flares in particular enhance ionization, and therefore electron density, at low altitudes; driving the bottom-side ionosphere that forms the upper boundary of the Earth-ionosphere waveguide to lower altitude.  Greater neutral atmosphere density at lower altitude means there is more attenuation from electron-neutral collisions, so VLF waves have a harder time propagating long distances through regions of the Earth-ionosphere waveguide impacted by a solar flare.
