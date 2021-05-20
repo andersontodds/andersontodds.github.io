@@ -18,7 +18,7 @@ Broadly speaking, I am interested in the impact of terrestrial and space weather
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_log_grid_cross_10m_sample.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_log_grid_cross_10m_sample.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_atten_redblue.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_atten_redblue.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/blackoutmap_20170906.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/blackoutmap_20170906.jpg"></a>
-    <figcaption><i>Click to enlarge!</i>  Top: sample stroke-station path distribution for a ten-minute period.  Center: dB change in 10-minute stroke-station path distribution from previous hour median for September 6, 2017 X9.3 flare.  Bottom: D-Region Absorption Prediction (D-RAP) HF attenuation model for the same flare (https://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap).</figcaption>
+    <figcaption><i>Click to enlarge!</i>  Top: sample stroke-station path distribution for a ten-minute period.  Center: dB change in 10-minute stroke-station path distribution from previous hour median for September 6, 2017 X9.3 flare.  Bottom: D-Region Absorption Prediction (D-RAP) HF attenuation model for the same flare (<i>NOAA SWPC</i>).</figcaption>
 </figure>
 
 Here we used data from the World Wide Lightning Location Network (WWLLN) to observe changes in very low frequency (VLF) radio wave propagation in the Earth-ionosphere waveguide associated with strong solar flares.  VLF radio waves can propagate thousands of kilometers in the waveguide, so WWLLN is able to use a network of spatially-distributed receiving stations to detect radio waves launched by lightning strokes, and thereby locate lightning all over the world.
@@ -27,18 +27,18 @@ Solar flares, and other space weather phenomena, alter the plasma density profil
 
 By assembling a distribution of propagation paths between lightning strokes and WWLLN stations, and observing how this distribution changes in time, we can look for changes in VLF propagation in the Earth-ionosphere waveguide when strong solar flares occur. In [**Anderson et al. 2020**](https://doi.org/10.1029/2019SW002408), we compared the difference in stroke-station path distribution with HF attenuation modeled by the NOAA D-Region Absorption Prediction (D-RAP) code for the X9.3 and X8.2 flares of September 6-10, 2017.
 
-You can find a more detailed description of methods in the paper, and MATLAB code in github.com/andersontodds/pathGrid.  As of November 2020, this repository is not very well streamlined for other users, but I am working on developing a well-documented version with intuitive parameter inputs.  I am also working on a version of this code that can plot attenuation regions in near-real time, updating every 10 minutes.
+You can find a more detailed description of methods in the paper, and MATLAB code in my [pathGrid](https://github.com/andersontodds/pathGrid) repository.  As of November 2020, this repository is not very well streamlined for other users, but I am working on developing a well-documented version with intuitive parameter inputs.  I am also working on a version of this code that can plot attenuation regions in near-real time, updating every 10 minutes.
 
-**Whistler wave density in the plasmasphere from global lightning**
+**Whistler wave power density in the magnetosphere from global lightning**
 
-The aim of this project is to get an idea of the overall density of whistler-mode waves in the plasmasphere from global lightning.  Much work has gone into ray-tracing of whistler wave paths in the inner magnetosphere in recent decades, although usually the aim is to correlate satellite observations of particular wave or particle events with specific lightning strokes or other whistler sources.  Here, we will calculate ray paths for all lightning strokes observed in the by WWLLN, and thereby model whistler wave power density from lightning strokes in the plasmasphere.
+The aim of this project is to get an idea of how lightning-generated whistler waves impact different particle populations in the magnetosphere.  Much work has gone into ray-tracing of whistler wave paths in the inner magnetosphere in recent decades, although usually the aim is to correlate satellite observations of particular wave or particle events with specific lightning strokes or other whistler sources.  Here, we will calculate ray paths for all lightning strokes observed in the by WWLLN, and thereby model whistler wave power density from lightning strokes in the magnetosphere.  Additionally, [**Holzworth et al. 2021**](https://doi.org/10.1029/2020GL091366) found that high-latitude lightning is increasing as a proportion of total lightning; how might this change in lightning climatology impact plasma in the magnetotail?
 
 This project is in its early stages, and is roughly composed of three parts:
  1. modeling wave propagation from a lightning stroke to the top of the ionosphere
  2. ray-tracing waves from the top of the ionosphere into the magnetosphere
  3. modeling wave-particle interactions and energy loss
  
-As of November 2020, individual ray paths can be traced from the top of the ionosphere (~1000 km altitude) into the magnetosphere, using Haselgrove's equations.  This ray tracer can be found at github.com/andersontodds/ray-trace.  I am using the [Julia language](https://julialang.org/) for this project, because it is open-source, intuitive, and fast.
+As of May 2021, individual ray paths can be traced from the top of the ionosphere (~1000 km altitude) into the magnetosphere, using Haselgrove's equations.  This ray tracer can be found in the [ray-trace](github.com/andersontodds/ray-trace) repository.  I am enjoying using the [Julia language](https://julialang.org/) for this project, because of its combination of development speed and runtime efficiency.
 
 **Thunderstorm contribution to the Global Electric Circuit**
 
