@@ -39,6 +39,12 @@ Thunderstorms were hypothesized to be the principal driver of the Global Electri
  1. A stratospheric balloon campaign, whose payloads will measure vector electric field and electrical conductivity in the fair-weather atmosphere, from which the fair-weather return current of the GEC can be derived, and
  2. A study of global thunderstorm area determined by the World Wide Lightning Location Network (WWLLN), with correction from satellite lightning and cloud imagery.
 
-A test balloon flight was conducted in early September 2019, wherein one payload flew for 31 hours and produced 18.5 hours of usable electric field and conductivity data.  These data were presented in a talk at the 2019 AGU Fall Meeting.  Up to four science flights are planned for Summer 2021. *TODO: add figure from 2019 AGU talk*
+A test balloon flight was conducted in early September 2019, wherein one payload flew for 31 hours and produced 18.5 hours of usable electric field and conductivity data.  These data were presented in a talk at the 2019 AGU Fall Meeting.  Up to four science flights are planned for Summer 2021.
+
+<figure class="half">
+    <a href="/assets/images/payload_hangar.jpg"><img src="/assets/images/paylaod_hangar.jpg"></a>
+    <a href="/assets/images/efield_cond_alt_legend_4.png"><img src="/assets/images/efield_cond_alt_legend_4.jpg"></a>
+    <figcaption>Left: one of the payloads being balanced in the hangar; center and right: electric field and conductivity profiles from the September 2019 test flight.</figcaption>
+</figure>
 
 In the banner photo of this page, you can see one of the stratospheric balloon payloads being tested in Sisters, OR, in September 2019.  The tiny white speck above the payload's boom on the right side of the image is the balloon flown during the test flight, catching the last rays of sunlight.
