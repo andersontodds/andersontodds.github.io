@@ -42,7 +42,7 @@ Thunderstorms were hypothesized to be the principal driver of the Global Electri
 A test balloon flight was conducted in early September 2019, wherein one payload flew for 31 hours and produced 18.5 hours of usable electric field and conductivity data.  These data were presented in a talk at the 2019 AGU Fall Meeting.  Up to four science flights are planned for Summer 2021.
 
 <figure style="width: 300px" class="align-right">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paylaod_hangar.jpg" alt ="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paylaod_hangar.jpg">
     <figcaption>One of the payloads being balanced in the hangar.</figcaption>
 </figure>
 
