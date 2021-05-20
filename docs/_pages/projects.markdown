@@ -14,10 +14,10 @@ Broadly speaking, I am interested in the impact of terrestrial and space weather
 
 **Detection of VLF attenuation in the Earth-ionosphere waveguide associated with solar flares**
 
-<figure class="triple">
+<figure class="triple" style="width: 300px" class="align-right">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_log_grid_cross_10m_sample.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_log_grid_cross_10m_sample.png"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_atten_redblue.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/20170906_atten_redblue.png"></a>
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/blackoutmap_20170906.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/blackoutmap_20170906.png"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/blackoutmap_20170906.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/blackoutmap_20170906.jpg"></a>
     <figcaption>Left: sample stroke-station path distribution for a ten-minute period.  Center: dB change in 10-minute stroke-station path distribution from previous hour median for September 6, 2017 X9.3 flare.  Right: D-Region Absorption Prediction (D-RAP) HF attenuation model for the same flare (NOAA SWPC).</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Here we used data from the World Wide Lightning Location Network (WWLLN) to obse
 
 Solar flares, and other space weather phenomena, alter the plasma density profile of the ionosphere.  Solar flares in particular enhance ionization, and therefore electron density, at low altitudes; driving the bottom-side ionosphere that forms the upper boundary of the Earth-ionosphere waveguide to lower altitude.  Greater neutral atmosphere density at lower altitude means there is more attenuation from electron-neutral collisions, so VLF waves have a harder time propagating long distances through regions of the Earth-ionosphere waveguide impacted by a solar flare.
 
-By assembling a distribution of propagation paths between lightning strokes and WWLLN stations, and observing how this distribution changes in time, we can look for changes in VLF propagation in the Earth-ionosphere waveguide when strong solar flares occur. In **Anderson et al. 2020**, we compared the difference in stroke-station path distribution with HF attenuation modeled by the NOAA D-Region Absorption Prediction (D-RAP) code for the X9.3 and X8.2 flares of September 6-10, 2017. *TODO: add figure from paper comparing WWLLN stroke-station path distribution with D-RAP*
+By assembling a distribution of propagation paths between lightning strokes and WWLLN stations, and observing how this distribution changes in time, we can look for changes in VLF propagation in the Earth-ionosphere waveguide when strong solar flares occur. In **Anderson et al. 2020**, we compared the difference in stroke-station path distribution with HF attenuation modeled by the NOAA D-Region Absorption Prediction (D-RAP) code for the X9.3 and X8.2 flares of September 6-10, 2017.
 
 You can find a more detailed description of methods in the paper, and MATLAB code in github.com/andersontodds/pathGrid.  As of November 2020, this repository is not very well streamlined for other users, but I am working on developing a well-documented version with intuitive parameter inputs.  I am also working on a version of this code that can plot attenuation regions in near-real time, updating every 10 minutes.
 
