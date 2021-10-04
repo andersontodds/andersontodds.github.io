@@ -39,7 +39,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Todd Anderson's personal site"
+title                    : "Todd Anderson"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Todd Anderson"
