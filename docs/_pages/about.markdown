@@ -1,7 +1,13 @@
 ---
-layout: single
-title: About
+layout: splash
+title: "About"
 permalink: /about/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/DSC09368_2.JPG
+  caption: Payload 2 undergoing pre-flight tests in Sisters, OR; September 2019
+excerpt: ""
 ---
 
 I am a PhD Candidate in the Department of Earth and Space Sciences at the University of Washington.  I work the atmospheric and space electrodynamics group with Drs. Bob Holzworth and Michael McCarthy, on a number of projects directly or tangentially related to lightning. You can read more about some of them at the [Projects](/projects/) page. 
