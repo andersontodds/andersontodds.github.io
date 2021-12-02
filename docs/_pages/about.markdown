@@ -13,7 +13,7 @@ excerpt: ""
 <figure class="double" style="width: 300px" class="align-right">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/Prusik_170910_089.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Prusik_170910_089.jpg"></a>
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_4461.JPG"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_4461.JPG"></a>
-    <figcaption><i>Click to enlarge!</i>  Top: finishing up the last pitch of the classic Stanley-Burgner route on Prusik Peak, Alpine Lakes Wilderness, WA.  Photo by [Steph Abegg](https://www.stephabegg.com/homepage), September 2017.  Bottom: hands-on during balloon inflation for the ESS 205 culminating launch, May 2018. </figcaption>
+    <figcaption><i>Click to enlarge!</i>  Top: finishing up the last pitch of the classic Stanley-Burgner route on Prusik Peak, Alpine Lakes Wilderness, WA.  Photo by Steph Abegg, September 2017.  Bottom: hands-on during balloon inflation for the ESS 205 culminating launch, May 2018. </figcaption>
 </figure>
 
 I am a PhD Candidate in the Department of Earth and Space Sciences at the University of Washington.  I work the atmospheric and space electrodynamics group with Drs. Bob Holzworth and Michael McCarthy, on a number of projects directly or tangentially related to lightning. You can read more about some of them at the [Projects](/projects/) page. 
