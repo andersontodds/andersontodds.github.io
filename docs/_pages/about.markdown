@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/DSC06782 (2).JPG
   caption: Lenticular clouds obscuring the summit of Glacier Peak, WA; May 2018
 excerpt: ""
