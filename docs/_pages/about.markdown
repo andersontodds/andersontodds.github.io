@@ -5,7 +5,7 @@ permalink: /about/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/DSC09368_2.JPG
+  overlay_image: /assets/images/DSC06782 (2).JPG
   caption: Payload 2 undergoing pre-flight tests in Sisters, OR; September 2019
 excerpt: ""
 ---
