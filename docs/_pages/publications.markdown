@@ -10,15 +10,19 @@ header:
 excerpt: ""
 ---
 
+**Publications**
+
 1. **Anderson, T. S.**, McCarthy, M. P., & Holzworth, R. H. (2020). Detection of VLF attenuation in the Earth-ionosphere waveguide caused by 
 X-class solar flares using a global lightning location network. *Space Weather*, 18, e2019SW002408. [doi:10.1029/2019SW002408](https://doi.org/10.1029/2019SW002408)
 
 2. Holzworth, R. H., Brundell, J. B., McCarthy, M. P., Jacobson, A. R., Rodger, C. J., & **Anderson, T. S.** (2021). Lightning in the Arctic. *Geophys. Res. Lett.*, *48*, e2020GL091366. [doi:10.1029/2020GL091366](https://doi.org/10.1029/2020GL091366)
 
-3. A. Probst, **T. Anderson**, A. O. Farrish, C. B. Kjellstrand, A. Newheart, S.A. Thaller, S. A. Q. Young, M. Akhavan-Tafti, A. Chartier, G.Chintzoglou, J. Duncan, B. Fritz, B. Maruca, R. McGranaghan, X. Meng, R. Perea, K. Rankin, E. Robertson, L. Lowes, A. Nash, A.Romero-Wolf, Team-X. Sun Sailing Polar Orbiting Telescope (SunSPOT): A Solar Polar Imaging Mission Design. (*In prep; author list not final*).
+3. A. Probst, **T. Anderson**, A. O. Farrish, C. B. Kjellstrand, A. Newheart, S. A. Thaller, S. A. Q. Young, M. Akhavan-Tafti, A. Chartier, G. Chintzoglou, J. Duncan, B. Fritz, B. Maruca, R. McGranaghan, X. Meng, R. Perea, K. Rankin, E. Robertson, L. Lowes, A. Nash, A. Romero-Wolf, Team-X. Sun Sailing Polar Orbiting Telescope (SunSPOT): A Solar Polar Imaging Mission Design. (*submitted*).
 
 
 **Presentations**
+
+December 2021: Oral presentation at the 2021 AGU Fall Meeting. "Quantifying the Thunderstorm Contribution to Earth's Global Electric Circuit: Simultaneous Multi-Point Measurements of the Fair-Weather Return Current by Instrumented Stratospheric Balloon Payloads."
 
 December 2020: Poster at the 2020 AGU Fall Meeting. “A Mission Concept for a Solar Observatory in a Highly-Inclined Heliocentric Orbit - Demystifying the Magnetic Nature and Activity of our Star.”
 
