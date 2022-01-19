@@ -16,6 +16,8 @@ excerpt: ""
     <figcaption><i>Click to enlarge!</i>  Top: finishing up the last pitch of the classic Stanley-Burgner route on Prusik Peak, Alpine Lakes Wilderness, WA.  Photo by Steph Abegg, September 2017.  Bottom: hands-on during balloon inflation for the ESS 205 culminating launch, May 2018. </figcaption>
 </figure>
 
+[Check out my CV.](/assets/Anderson_Todd_CV.pdf)
+
 I am a PhD Candidate in the Department of Earth and Space Sciences at the University of Washington.  I work the atmospheric and space electrodynamics group with Drs. Bob Holzworth and Michael McCarthy, on a number of projects directly or tangentially related to lightning. You can read more about some of them at the [Projects](/projects/) page. 
 
 I'm originally from Salt Lake City, Utah, and I graduated with a BA in Physics with Honors from Dartmouth College in 2014.  While there, I was fortunate to be involved in research with Dr. Kristina Lynch on payload development for a cubesat swarm.  We launched a number of sounding balloons with instrument and telemetry packages, and for my undergraduate thesis I designed a deployment scheme and analyzed the trajectories of a 32-member cubesat swarm in sun-synchronous orbit.  That work got me interested in space physics, and also provided valuable background in scientific ballooning that is now an important part of both my research and teaching.
