@@ -10,7 +10,7 @@ header:
 excerpt: ""
 ---
 
-I am interested in the impact of terrestrial and space weather on the Earth's ionosphere and inner magnetosphere.  In my PhD work, I have access to a fantastic dataset of global lightning activity from the World Wide Lightning Location Network (WWLLN), which I help maintain.  I use this dataset--along with data from other instruments we build and deploy, or from existing networks and services--to study the impact of strong solar flares and particle events on radio wave propagation in the Earth-ionosphere waveguide, lightning-launched whistler-mode wave power density in the plasmasphere, and the contribution of global thunderstorms to the Earth's Global Electric Circuit.
+I am interested in the impact of terrestrial and space weather on the Earth's ionosphere and inner magnetosphere.  In my PhD work, I have access to a fantastic dataset of global lightning activity from the World Wide Lightning Location Network ([WWLLN](https://wwlln.net/)), which I help maintain.  I use this dataset--along with data from other instruments we build and deploy, or from existing networks and services--to study the impact of strong solar flares and particle events on radio wave propagation in the Earth-ionosphere waveguide, lightning-launched whistler-mode wave power density in the plasmasphere, and the contribution of global thunderstorms to the Earth's Global Electric Circuit.
 
 **Detection of VLF attenuation in the Earth-ionosphere waveguide associated with solar flares**
 
