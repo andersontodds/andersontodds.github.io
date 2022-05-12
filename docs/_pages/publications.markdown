@@ -17,7 +17,7 @@ X-class solar flares using a global lightning location network. *Space Weather*,
 
 2. Holzworth, R. H., Brundell, J. B., McCarthy, M. P., Jacobson, A. R., Rodger, C. J., & **Anderson, T. S.** (2021). Lightning in the Arctic. *Geophys. Res. Lett.*, *48*, e2020GL091366. [doi:10.1029/2020GL091366](https://doi.org/10.1029/2020GL091366)
 
-3. A. Probst, **T. Anderson**, A. O. Farrish, C. B. Kjellstrand, A. Newheart, S. A. Thaller, S. A. Q. Young, M. Akhavan-Tafti, A. Chartier, G. Chintzoglou, J. Duncan, B. Fritz, B. Maruca, R. McGranaghan, X. Meng, R. Perea, K. Rankin, E. Robertson, L. Lowes, A. Nash, A. Romero-Wolf, Team-X. Sun Sailing Polar Orbiting Telescope (SunSPOT): A Solar Polar Imaging Mission Design. *Advances in Space Research* (*accepted*).
+3. A. Probst, **T. Anderson**, A. O. Farrish, C. B. Kjellstrand, A. Newheart, S. A. Thaller, S. A. Q. Young, M. Akhavan-Tafti, A. Chartier, G. Chintzoglou, J. Duncan, B. Fritz, B. Maruca, R. McGranaghan, X. Meng, R. Perea, K. Rankin, E. Robertson, L. Lowes, A. Nash, A. Romero-Wolf, Team-X. Sun Sailing Polar Orbiting Telescope (SunSPOT): A Solar Polar Imaging Mission Design. *Advances in Space Research* (2022), [doi:10.1016/j.asr.2022.04.060](https://doi.org/10.1016/j.asr.2022.04.060)
 
 
 **Presentations**
