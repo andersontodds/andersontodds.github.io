@@ -8,7 +8,7 @@ categories: puzzle-solving
 Quick post to show this animation of WWLLN stroke-to-station paths for March 2022, averaged in 10-minute windows of time of day.  Next, I'll try simulating WWLLN stations in new locations (such as nearer the North Pole) to see how higher-latitude stations would impact our ability to sense the lower ionosphere with WWLLN-like VLF receivers, using lightning sferics as a probe signal.
 
 <figure class="single" style="width: 300px" class="align-right">
-    <a href="/assets/images/average_paths_202203_smaller.gif"><img src="/assets/images/average_paths_202203_smaller.gif"></a>
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/average_paths_202203_smaller.gif"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/average_paths_202203_smaller.gif"></a>
     <figcaption><i>Click to enlarge!</i> WWLLN stroke-station paths for the month of March 2022, averaged over 10-minute windows in UT. </figcaption>
 </figure>
 
