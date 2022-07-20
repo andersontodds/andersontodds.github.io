@@ -3,6 +3,8 @@ layout: single
 title: "Average WWLLN stroke-station path visualization"
 date: 2022-06-26 17:00:00 -0700
 categories: puzzle-solving
+header:
+    teaser:"{{ site.url }}{{ site.baseurl }}/assets/images/average_paths_202203_smaller.gif"
 ---
 
 Quick post to show this animation of WWLLN stroke-to-station paths for March 2022, averaged in 10-minute windows of time of day.  Next, I'll try simulating WWLLN stations in new locations (such as nearer the North Pole) to see how higher-latitude stations would impact our ability to sense the lower ionosphere with WWLLN-like VLF receivers, using lightning sferics as a probe signal.
