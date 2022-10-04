@@ -30,7 +30,7 @@ The impact of energetic electron precipitation (EEP) events on the lower ionosph
 I am currently working on methods to quantify the spatial signatures of EEP using WWLLN wideband VLF sferics.  Using lightning as a VLF signal source sacrifices very well-characterized sources in order to gain main more "transmitter"-receiver paths, and thereby potentially allow for significantly greater spatial resolution.  This project has three components:
 
 <figure style="width: 300px" class="align-right">
-    <a href="https://github.com/andersontodds/pathGrid/blob/master/average_paths_perp_weighted_202203_2350.jpg"><img src="https://github.com/andersontodds/pathGrid/blob/master/average_paths_perp_weighted_202203_2350.jpg"></a>
+    <a href="https://raw.githubusercontent.com/andersontodds/pathGrid/master/average_paths_perp_weighted_202203_2350.jpg"><img src="https://raw.githubusercontent.com/andersontodds/pathGrid/master/average_paths_perp_weighted_202203_2350.jpg"></a>
     <figcaption><i>Click to enlarge!</i>  Top: average stroke-station paths for 23:50-00:00 UT during the month of March 2022.  Center: "perpendicularity" of path distribution; defined as the variance of double the path azimuths.  P ranges from 0 (parallel or anti-parallel paths) to 1 (perpendicular paths).  Bottom: average paths multiplied by perpendicularity.</figcaption>
 </figure>
 
