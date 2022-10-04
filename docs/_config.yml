@@ -119,7 +119,7 @@ analytics:
 author:
   name             : "Todd"
   avatar           : "/assets/images/todd_lab_portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Earth and Space Sciences at the University of Washington. Interested in space plasmas, lightning, open-source computing, and being outside. <ins>[Check out my CV.](/assets/Anderson_Todd_CV.pdf)</ins>"
+  bio              : "I'm a PhD Candidate in Earth and Space Sciences at the University of Washington, interested in space plasmas, lightning, open-source computing, and being outside. <ins>[Check out my CV.](/assets/Anderson_Todd_CV.pdf)</ins>"
   location         : "Seattle"
   email            : "tshelbya@uw.edu"
   links:
