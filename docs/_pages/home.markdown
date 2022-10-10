@@ -8,8 +8,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 excerpt: >
-  My research homepage.<br />
-  <small><a href="https://github.com/andersontodds/andersontodds.github.io">Site source repo</a></small>
+  Todd Anderson's research homepage.<br />
+  <small><a href="https://andersontodds.github.io/assets/Anderson_Todd_CV.pdf">Check out my CV</a></small>
 feature_row:
   - image_path: /assets/images/IMG_20190904_122239_443.jpg
     alt: "GEC2021 balloon payload"
