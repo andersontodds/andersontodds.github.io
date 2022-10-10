@@ -10,7 +10,6 @@ header:
   overlay_filter: "0.5"
 excerpt: >
   Todd Anderson's research homepage.<br />
-  # <small><a href="https://andersontodds.github.io/assets/Anderson_Todd_CV.pdf">Check out my CV</a></small>
 feature_row:
   - image_path: /assets/images/projects_fig.jpg
     alt: "GEC2021 balloon payload"
