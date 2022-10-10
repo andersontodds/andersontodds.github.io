@@ -306,6 +306,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
