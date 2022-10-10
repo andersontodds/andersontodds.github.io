@@ -1,11 +1,12 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+# hidden: true
 author_profile: true
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/DSC09368_2.JPG
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 excerpt: >
   My research homepage.<br />
   <small><a href="https://github.com/andersontodds/andersontodds.github.io">Site source repo</a></small>
