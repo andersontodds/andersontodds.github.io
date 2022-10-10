@@ -10,7 +10,7 @@ excerpt: >
   My research homepage.<br />
   <small><a href="https://github.com/andersontodds/andersontodds.github.io">Site source repo</a></small>
 feature_row:
-  - image_path: /assets/images/payload_hangar.jpg
+  - image_path: /assets/images/IMG_20190904_122239_443.jpg
     alt: "GEC2021 balloon payload"
     title: "Projects"
     excerpt: "Current experimental and data analysis work."
