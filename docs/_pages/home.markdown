@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-# hidden: true
+hidden: true
 author_profile: true
 header:
   overlay_image: /assets/images/DSC09368_2.JPG
