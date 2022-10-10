@@ -8,6 +8,8 @@ main:
      url: /publications/
    - title: "Teaching"
      url: /teaching/
+   - title: "Blog"
+     url: /blog/
    - title: "About"
      url: https://andersontodds.github.io/about/
   # - title: "Sitemap"
