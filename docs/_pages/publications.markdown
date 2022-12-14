@@ -22,6 +22,8 @@ X-class solar flares using a global lightning location network. *Space Weather*,
 
 **Presentations**
 
+December 2022: Oral presentation at the 2022 AGU Fall Meeting. "Investigating Spatial Scales of Energetic Particle Precipitation Signatures in the Mesosphere-Lower Thermosphere with a VLF Lightning Detection Network."
+
 December 2021: Oral presentation at the 2021 AGU Fall Meeting. "Quantifying the Thunderstorm Contribution to Earth's Global Electric Circuit: Simultaneous Multi-Point Measurements of the Fair-Weather Return Current by Instrumented Stratospheric Balloon Payloads."
 
 December 2020: Poster at the 2020 AGU Fall Meeting. “A Mission Concept for a Solar Observatory in a Highly-Inclined Heliocentric Orbit - Demystifying the Magnetic Nature and Activity of our Star.”
