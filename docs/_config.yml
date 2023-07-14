@@ -21,8 +21,8 @@
 #title: Todd Anderson's personal site
 email: tshelbya@uw.edu
 #description: >- # this means to ignore newlines until "baseurl:"
-#  Todd Anderson is a PhD Candidate studying space plasma physics and atmospheric electrodynamics
-#  in the Department of Earth and Space Sciences at the University of Washington.
+#  Todd Anderson holds a PhD in Earth and Space Sciences from the University of Washington, where
+#  he studied space plasma physics and atmospheric electrodynamics.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://anderson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -119,7 +119,7 @@ analytics:
 author:
   name             : "Todd"
   avatar           : "/assets/images/todd_lab_portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a PhD Candidate in Earth and Space Sciences at the University of Washington, interested in space plasmas, lightning, open-source computing, and being outside. <ins>[Check out my CV.](/assets/Anderson_Todd_CV.pdf)</ins>"
+  bio              : "PhD in Earth and Space Sciences from the University of Washington, interested in space plasmas, lightning, open-source computing, and being outside. <ins>[Check out my CV.](/assets/Anderson_Todd_CV.pdf)</ins>"
   location         : "Seattle"
   email            : "tshelbya@uw.edu"
   links:
